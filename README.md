@@ -26,9 +26,9 @@ GContact is a modern contact management app built with **Android Jetpack Compose
 ### 📸 Screenshots
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="Front_app.jpg" alt="Front App" width="33%">
-  <img src="left_app.jpg" alt="Left App" width="33%">
-  <img src="right_app.jpg" alt="Right App" width="33%">
+  <img src="Front_app.jpg" alt="Front App" width="30%">
+  <img src="left_app.jpg" alt="Left App" width="30%">
+  <img src="right_app.jpg" alt="Right App" width="30%">
 </div>
 
 ---
