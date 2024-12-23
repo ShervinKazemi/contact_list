@@ -48,7 +48,7 @@ We welcome contributions to make GContact even better! Feel free to fork the rep
 ---
 
 ### 👨‍💻 Author
-Developed by **Your Name**. Reach out to me at [shervink.codes@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/shervin-kazemian).
+Developed by **Shervin Kazemian**. Reach out to me at [shervink.codes@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/shervin-kazemian).
 
 ---
 
